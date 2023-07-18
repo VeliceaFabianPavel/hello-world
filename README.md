@@ -4,8 +4,8 @@ Hello World repo. That's it. Waste of a good amount of bytes and CPU cycles.
 
 This message is brought to you by **[Velicea Fabian Pavel]**.
 
-## Pic
+## Picture
 
 Hey, guess what... you can also add your account avatar (image). It's enough to right click on your avatar where you see it in a page, go to `view image` and copy the link to it.
 Like this:  
-![YOUR-LINK](https://avatars2.githubusercontent.com/u/7242607?s=60&v=4)
+![AVATAR](https://avatars.githubusercontent.com/u/95947103?s=400&u=2b72336188691e220669cad75eddd45ea009eeca&v=4)
